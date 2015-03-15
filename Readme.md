@@ -1,5 +1,5 @@
-Readme
-======
+Read Me
+=======
 
 Optima is a program that processes optical imaging file in TIFF format
 
@@ -75,4 +75,9 @@ Running the program
 --------------------
 Select the directory with the TIFF files from the Process menu.
 
+
+
+Samples
+-------
+Sample files are available in the Samples direcory
 

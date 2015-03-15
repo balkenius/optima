@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animal.id</key>
+	<string>=PATH(1,0,3)</string>
+	<key>filter.radius</key>
+	<string>25</string>
+	<key>bp.a</key>
+	<string>25</string>
+	<key>const.a</key>
+	<string>8</string>
+	<key>const.b</key>
+	<string>12</string>
+	<key>lin.a</key>
+	<string>4</string>
+	<key>lin.b</key>
+	<string>12</string>
+	<key>lin.c</key>
+	<string>35</string>
+	<key>lin.d</key>
+	<string>40</string>
+	<key>poly.a</key>
+	<string>0</string>
+	<key>poly.b</key>
+	<string>12</string>
+	<key>poly.c</key>
+	<string>30</string>
+	<key>poly.d</key>
+	<string>40</string>
+	<key>reg.method</key>
+	<string>linear</string>
+	<key>mask.fraction</key>
+	<string>0.33</string>
+	<key>measure.start</key>
+	<string>13</string>
+	<key>measure.end</key>
+	<string>30</string>
+	<key>stimulus.start</key>
+	<string>10</string>
+	<key>stimulus.end</key>
+	<string>18</string>
+	<key>stimulus.type</key>
+	<string>=PATH(0,2,1)</string>
+	<key>stimulus.id</key>
+	<string>=PATH(0,1,1)</string>
+	<key>stimulus.odour</key>
+	<string>=PATH(0,0,1)</string>
+	<key>colour</key>
+	<string>BLUE</string>
+	<key>odour</key>
+	<string>PAA</string>
+</dict>
+</plist>

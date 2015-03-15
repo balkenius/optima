@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>label.column</key>
+		<string>stimulus.type</string>
+		<key>label1</key>
+		<string>O</string>
+		<key>label2</key>
+		<string>M</string>
+		<key>value.column</key>
+		<string>const.signal.magnitude</string>
+	</dict>
+	<dict>
+		<key>label.column</key>
+		<string>stimulus.type</string>
+		<key>label1</key>
+		<string>O</string>
+		<key>label2</key>
+		<string>M</string>
+		<key>value.column</key>
+		<string>lin.signal.magnitude</string>
+	</dict>
+	<dict>
+		<key>label.column</key>
+		<string>stimulus.type</string>
+		<key>label1</key>
+		<string>O</string>
+		<key>label2</key>
+		<string>M</string>
+		<key>value.column</key>
+		<string>poly.signal.magnitude</string>
+	</dict>
+	<dict>
+		<key>label.column</key>
+		<string>stimulus.type</string>
+		<key>label1</key>
+		<string>O</string>
+		<key>label2</key>
+		<string>M</string>
+		<key>value.column</key>
+		<string>bp.signal.magnitude</string>
+	</dict>
+</array>
+</plist>
